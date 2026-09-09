@@ -1,1 +1,3 @@
 # Documentación
+
+Este directorio contiene la documentación del proyecto.
