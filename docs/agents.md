@@ -1,4 +1,4 @@
-# AGENTS.md — <web-personal>
+# AGENTS.md  <web-personal>
 
 ## Proyecto
 El objetivo del proyecto es crear una pagina web personal, en la cual incluya mis datos personales, trabajos o tareas que estoy haciendo actualmente, que tenga una seccion de contacto y que sirva para venderme como desarrollador de software para encontrar trabajo
